@@ -20,7 +20,7 @@ Every contribution, regardless of its size, plays a pivotal role in refining thi
 ### Setup
 
 1. **Rust Packages**:
-   - Install the `cargo` toolchain via [rustup](https://rustup.rs/).
+   - Install the `cairo` toolchain via [rustup](https://rustup.rs/).
    - Install [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) and its translation extension:
 
 ```shell
